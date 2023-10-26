@@ -1,0 +1,76 @@
+<player>
+  <playlist>
+    <track>
+      <file>01.mp3</file>
+      <title>01- Flor de lino -Vals- (H.Expósito - H.Stamponi) </title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>02.mp3</file>
+      <title>02- 9 de Julio -Tango- (J.L.Padula)</title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>03.mp3</file>
+      <title>03- Taquito militar -Milonga- (M.Mores)</title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>04.mp3</file>
+      <title>04- El sueño del pescador -Chamamé- (Cant.E. Ferrari) </title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>05.mp3</file>
+      <title>05- El gato de mis viejos -Gato- (D.Adaro) </title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>06.mp3</file>
+      <title>06- Quisiera ser -Guarania- (M.Clavel - Pupe) </title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>07.mp3</file>
+      <title>07- Allá por San Rafael -Cueca- (Cant.J.Viñas - R.Lareu) </title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>08.mp3</file>
+      <title>08- El ángel de tu ausencia -Vals- (D.Adaro)</title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>09.mp3</file>
+      <title>09- San Lorenzo -Marcha- (C.P.Silva - C.A.Benielli) </title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>10.mp3</file>
+      <title>10- Como un árbol de tapera -Canción- (Cant.E.Ferrari) </title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>11.mp3</file>
+      <title>11- Río del Alma -Polca- (D.Adaro) </title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>12.mp3</file>
+      <title>12- Adiós nonino -Tango- (A.Piazzolla) </title>
+      <artist></artist>
+      <album></album>
+    </track>
+  </playlist>
+</player>

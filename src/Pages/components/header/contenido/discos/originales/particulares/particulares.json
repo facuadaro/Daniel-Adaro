@@ -1,0 +1,70 @@
+[
+    {
+        "id": 0,
+        "nombre": "Los Reyes De La Guitarra",
+        "imagen": "../Discos/originales01_.jpg",
+        "canciones": {
+            "tema1": "lorem2",
+            "tema2": "lorem2",
+            "tema3": "lorem2",
+            "tema4": "lorem2",
+            "tema6": "lorem2",
+            "tema7": "lorem21",
+            "tema8": "lorem21",
+            "tema9": "lorem21",
+            "tema10": "lorem21",
+            "tema11": "lorem21",
+            "tema12": "lorem21"
+        },
+        "plays": {
+            "track1": "",
+            "track2": "",
+            "track3": "",
+            "track4": "",
+            "track5": "",
+            "track6": "",
+            "track7": "",
+            "track8": "",
+            "track9": "",
+            "track10": "",
+            "track11": "",
+            "track12": ""
+        }
+    },
+    {
+        "id": 1,
+        "nombre": "Confesiones De Cuerdas",
+        "imagen": "../Discos/originales02_.jpg",
+        "canciones": {
+            "tema1": "lorem21",
+            "tema2": "lorem21",
+            "tema3": "lorem21",
+            "tema4": "lorem21",
+            "tema5": "lorem21",
+            "tema6": "lorem21",
+            "tema7": "lorem21",
+            "tema8": "lorem21",
+            "tema9": "lorem21",
+            "tema10": "lorem21",
+            "tema11": "lorem21"
+        }
+    },
+    {
+        "id": 2,
+        "nombre": "Madera",
+        "imagen": "../Discos/originales03_.jpg",
+        "canciones": {
+            "tema1": "lorem21",
+            "tema2": "lorem21",
+            "tema3": "lorem21",
+            "tema4": "lorem21",
+            "tema5": "lorem21",
+            "tema6": "lorem21",
+            "tema7": "lorem21",
+            "tema8": "lorem21",
+            "tema9": "lorem21",
+            "tema10": "lorem21",
+            "tema11": "lorem21"
+        }
+    }
+]

@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    display: flex;
+    margin-top: 50px;
+    z-index: -1;
+    width: 90%;
+    min-width: 500px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+
+@media (max-width: 1268px) {
+    .logo {
+        width: 60%;
+    }
+}
+
+@media (max-width: 768px) {
+    .container {
+        display: none;
+    }
+}

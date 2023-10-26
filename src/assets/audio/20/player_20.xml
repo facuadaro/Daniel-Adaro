@@ -1,0 +1,22 @@
+<player>
+  <playlist>
+    <track>
+      <file>01.mp3</file>
+      <title>Corazón berdugo -chacarera- (Peteco Carabajal)</title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>02.mp3</file>
+      <title>Yo quiero en ti vivir -zamba- (Nestor Garnica)</title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>03.mp3</file>
+      <title>Cafallate -zamba- (La Moro - Mario Teruel)</title>
+      <artist></artist>
+      <album></album>
+    </track>
+  </playlist>
+</player>

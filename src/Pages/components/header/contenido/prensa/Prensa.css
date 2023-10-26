@@ -1,0 +1,50 @@
+.prensagral {
+    animation: entrada 0.35s forwards ease-out;
+}
+
+.prensagral ul li {
+    display: flex;
+    align-items: center;
+    list-style: circle;
+}
+
+.prensagral ul li img {
+    width: 12px;
+    margin: 10px 10px;
+}
+
+
+a {
+    color: #C5D5E4;
+}
+
+.prensagral h2 {
+    text-align: center;
+    font-size: medium;
+    margin: 3rem 0;
+    font-weight: 600;
+}
+
+
+
+@keyframes entrada {
+    0%{opacity: 0 }
+    100%{opacity: 100}
+}
+
+@media (max-width: 768px) {
+
+    .prensagral {
+        width: 100%;
+    }
+    
+    p {
+        margin: 1rem 0;
+    }
+    
+    .prensagral ul li {
+        margin: 0 10px;
+        font-size: 11px;
+        line-height: 30px;
+    }
+}

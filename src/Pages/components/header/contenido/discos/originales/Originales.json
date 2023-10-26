@@ -1,0 +1,102 @@
+[
+    {
+        "id": 0,
+        "nombre": "Los Reyes De La Guitarra",
+        "imagen": "../Discos/disco1.png",
+        "canciones": {
+            "tema0": "../Discos/MP3/Daniel-Adaro-Confesiones-de-cuerdas/01_Flor_de_lino_(Vals)-H.Expósito-H-Stamponi.wav",
+            "tema1": "../Discos/MP3/Daniel-Adaro-Confesiones-de-cuerdas/02_9deJulio(Tango)-J.L.Padula.wav",
+            "tema2": "../Discos/MP3/Daniel-Adaro-Confesiones-de-cuerdas/03_Taquito Militar(Milonga)-M. Mores.wav",
+            "tema3": "../Discos/MP3/Daniel-Adaro-Confesiones-de-cuerdas/04 El sueño del pescador (Chamamé) - Cant. E. Ferrari.wav",
+            "tema4": "../Discos/MP3/Daniel-Adaro-Confesiones-de-cuerdas/05 El gato de mis viejos (Gato) - D. Adaro.wav",
+            "tema5": "../Discos/MP3/Daniel-Adaro-Confesiones-de-cuerdas/06 Quisiera ser (Guarania) - M. Clavel - Pupe.wav",
+            "tema6": "../Discos/MP3/Daniel-Adaro-Confesiones-de-cuerdas/07 Allá por San Rafael (Cueca) - Cant. J. Viñas - R. Lareu.wav",
+            "tema7": "../Discos/MP3/Daniel-Adaro-Confesiones-de-cuerdas/08 El ángel de tu ausencia (Vals) - D. Adaro.wav",
+            "tema9": "../Discos/MP3/Daniel-Adaro-Confesiones-de-cuerdas/10 Como un árbol de tapera (Canción) - Cant. E. Ferrari.wav",
+            "tema10": "../Discos/MP3/Daniel-Adaro-Confesiones-de-cuerdas/11 Río del alma (Polca) - D. Adaro.wav",
+            "tema11": "../Discos/MP3/Daniel-Adaro-Confesiones-de-cuerdas/12 Adiós Nonino (Tango) - A. Piazolla.wav"
+        },
+        "descripcion": {
+            "tema0": "Canaro en París (Tango)",
+            "tema1": "Viaje a Argüello (Vals)",
+            "tema2": "Corralera (Milonga)",
+            "tema3": "La Guitarrita (Tango)",
+            "tema4": "Ilusión de Mi Vida (Vals)",
+            "tema5": "Danzarín (Tango)",
+            "tema6": "Pasando Los Días (Gato)",
+            "tema7": "Nocturno (Milonga)",
+            "tema9": "Marcha Turca (Clásico)",
+            "tema10": "El Choclo (Tango)",
+            "tema11": "La Viruta (Tango)",
+            "tema12": "Brasileirinho (Samba)"
+        }
+    },
+    {
+        "id": 1,
+        "nombre": "Confesiones De Cuerdas",
+        "imagen": "../Discos/originales02_.jpg",
+        "canciones": {
+            "tema0": "../Discos/MP3/Daniel-Adaro-Confesiones-de-cuerdas/01_Flor_de_lino_(Vals)-H.Expósito-H-Stamponi.wav",
+            "tema1": "../Discos/MP3/Daniel-Adaro-Confesiones-de-cuerdas/02_9deJulio(Tango)-J.L.Padula.wav",
+            "tema2": "../Discos/MP3/Daniel-Adaro-Confesiones-de-cuerdas/03_Taquito Militar(Milonga)-M. Mores.wav",
+            "tema3": "../Discos/MP3/Daniel-Adaro-Confesiones-de-cuerdas/04 El sueño del pescador (Chamamé) - Cant. E. Ferrari.wav",
+            "tema4": "../Discos/MP3/Daniel-Adaro-Confesiones-de-cuerdas/05 El gato de mis viejos (Gato) - D. Adaro.wav",
+            "tema5": "../Discos/MP3/Daniel-Adaro-Confesiones-de-cuerdas/06 Quisiera ser (Guarania) - M. Clavel - Pupe.wav",
+            "tema6": "../Discos/MP3/Daniel-Adaro-Confesiones-de-cuerdas/07 Allá por San Rafael (Cueca) - Cant. J. Viñas - R. Lareu.wav",
+            "tema7": "../Discos/MP3/Daniel-Adaro-Confesiones-de-cuerdas/08 El ángel de tu ausencia (Vals) - D. Adaro.wav",
+            "tema8": "../Discos/MP3/Daniel-Adaro-Confesiones-de-cuerdas/10 Como un árbol de tapera (Canción) - Cant. E. Ferrari.wav",
+            "tema9": "../Discos/MP3/Daniel-Adaro-Confesiones-de-cuerdas/11 Río del alma (Polca) - D. Adaro.wav",
+            "tema10": "../Discos/MP3/Daniel-Adaro-Confesiones-de-cuerdas/12 Adiós Nonino (Tango) - A. Piazolla.wav"
+        }
+        ,
+        "descripcion": {
+            "tema0": "Flor de lino (Vals)",
+            "tema1": "9 de Julio (Tango)",
+            "tema2": "Taquito Militar (Milonga)",
+            "tema3": "El sueño del pescador (Chamamé)",
+            "tema4": "El gato de mis viejos (Gato)",
+            "tema5": "Quisiera ser (Guarania)",
+            "tema6": "Allá por San Rafael (Cueca)",
+            "tema7": "El ángel de tu ausencia (Vals)",
+            "tema8": "Como un árbol de tapera (Canción)",
+            "tema9": "Río del alma (Polca)",
+            "tema10": "Adiós Nonino (Tango)"
+        }
+    },
+    {
+        "id": 2,
+        "nombre": "Madera",
+        "imagen": "../Discos/originales03_.jpg",
+        "canciones": {
+            "tema0": "../Discos/MP3/Daniel-Adaro-Confesiones-de-cuerdas/01_Flor_de_lino_(Vals)-H.Expósito-H-Stamponi.wav",
+            "tema1": "../Discos/MP3/Daniel-Adaro-Confesiones-de-cuerdas/02_9deJulio(Tango)-J.L.Padula.wav",
+            "tema2": "../Discos/MP3/Daniel-Adaro-Confesiones-de-cuerdas/03_Taquito Militar(Milonga)-M. Mores.wav",
+            "tema3": "../Discos/MP3/Daniel-Adaro-Confesiones-de-cuerdas/04 El sueño del pescador (Chamamé) - Cant. E. Ferrari.wav",
+            "tema4": "../Discos/MP3/Daniel-Adaro-Confesiones-de-cuerdas/05 El gato de mis viejos (Gato) - D. Adaro.wav",
+            "tema5": "../Discos/MP3/Daniel-Adaro-Confesiones-de-cuerdas/06 Quisiera ser (Guarania) - M. Clavel - Pupe.wav",
+            "tema6": "../Discos/MP3/Daniel-Adaro-Confesiones-de-cuerdas/07 Allá por San Rafael (Cueca) - Cant. J. Viñas - R. Lareu.wav",
+            "tema7": "../Discos/MP3/Daniel-Adaro-Confesiones-de-cuerdas/08 El ángel de tu ausencia (Vals) - D. Adaro.wav",
+            "tema9": "../Discos/MP3/Daniel-Adaro-Confesiones-de-cuerdas/10 Como un árbol de tapera (Canción) - Cant. E. Ferrari.wav",
+            "tema10": "../Discos/MP3/Daniel-Adaro-Confesiones-de-cuerdas/11 Río del alma (Polca) - D. Adaro.wav",
+            "tema11": "../Discos/MP3/Daniel-Adaro-Confesiones-de-cuerdas/12 Adiós Nonino (Tango) - A. Piazolla.wav",
+            "tema13": "../Discos/MP3/Daniel-Adaro-Confesiones-de-cuerdas/13_Flor_de_lino_(Vals)-H.Expósito-H-Stamponi.wav"
+        }
+        ,
+        "descripcion": {
+            "tema0": "Amurado (Tango)",
+            "tema1": "Te Vas Milonga (Milonga)",
+            "tema2": "A San Telmo (Tango)",
+            "tema3": "Gota De Lluvia (Vals)",
+            "tema4": "Nada (Tango)",
+            "tema5": "Fuga y Misterio (Tango)",
+            "tema6": "Ángela Rossa (Polca)",
+            "tema7": "Milonga de mis amores (Milonga)",
+            "tema8": "A Fuego Lento (Tango)",
+            "tema9": "Amémonos (Vals)",
+            "tema10": "Corrales Viejos (Milonga)",
+            "tema11": "El Llanto de La Selva (Polca)",
+            "tema12": "Palomita Blanca (Vals)",
+            "tema13": "La Cumparcita (Tango)"
+        }
+    }
+]

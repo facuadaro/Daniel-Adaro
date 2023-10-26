@@ -1,0 +1,28 @@
+<player>
+  <playlist>
+    <track>
+      <file>02.mp3</file>
+      <title>02- Bailando con tu sombra (Victor Heredia) </title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>05.mp3</file>
+      <title>05- Supongamos (Victor Heredia) </title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>08.mp3</file>
+      <title>08- Donde quedó el cielo (Carlos y Peteco Carabajal) </title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>09.mp3</file>
+      <title>09- Sobreviviendo (Victor Heredia) </title>
+      <artist></artist>
+      <album></album>
+    </track>
+  </playlist>
+</player>

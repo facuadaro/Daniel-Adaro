@@ -1,0 +1,43 @@
+
+.infobio {
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+    color: #C5D5E4;  
+    max-width: 36rem;
+    font-size: 0.8rem;
+    text-align: justify;
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index: 100;
+    text-shadow: black 1px 1.5px 1.5px;
+    margin: 0;
+}
+
+
+
+.infobio img {
+    position: absolute;
+    z-index: -1;
+    opacity: 0.5;
+}
+
+.infobio h2 {
+    margin: 40px 0;
+}
+
+@media (max-width: 768px) {
+
+    .gral {
+        margin: 0 10px;
+    }
+
+    .infobio {
+        max-width: none;
+        width: 100%;
+        font-size: xx-small;
+        font-weight: 700;
+    }
+}

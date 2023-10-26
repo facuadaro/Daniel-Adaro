@@ -1,0 +1,82 @@
+<player>
+  <playlist>
+    <track>
+      <file>01.mp3</file>
+      <title>01- Canaro en Paris -Tango- (A.Scarpino - I.Caldarella)</title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>02.mp3</file>
+      <title>02- Viaje a Arguello -Vals- (C.Ortíz)</title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>03.mp3</file>
+      <title>03- Corralera -Milonga- (A.Aleta) </title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>04.mp3</file>
+      <title>04- La guitarrita -Tango- (E.Arolas) </title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>05.mp3</file>
+      <title>05- Ilusión de mi vida -Vals- (F.Brunelli - López) </title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>06.mp3</file>
+      <title>06- Danzarín -Tango- (J.Plaza)</title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>07.mp3</file>
+      <title>07- Pasando los días -Gato- (J.Dominguez) </title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>08.mp3</file>
+      <title>08- Nocturna -Milonga- (J.Plaza)</title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>09.mp3</file>
+      <title>09- Marcha turca -Clásico- (A.Mozart) </title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>10.mp3</file>
+      <title>10- El choclo -Tango- (A.Villoldo - M.Catán - E.S.Discépolo) </title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>11.mp3</file>
+      <title>11- Czardas -Clásico- (Monti) </title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>12.mp3</file>
+      <title>12- La viruta -Tango- (V.Grecco) </title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>13.mp3</file>
+      <title>13- Brasileirinho -Samba- (W.Acevedo) </title>
+      <artist></artist>
+      <album></album>
+    </track>
+  </playlist>
+</player>

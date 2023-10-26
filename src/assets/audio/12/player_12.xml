@@ -1,0 +1,28 @@
+<player>
+  <playlist>
+    <track>
+      <file>03.mp3</file>
+      <title>03- Pedacito de cielo -Vals- (H.Expósito - E.M.Franchi - H.Stamponi) </title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>06.mp3</file>
+      <title>06- Nocturna -Milonga- (J.Plaza) </title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>11.mp3</file>
+      <title>11- Quejas de bandoneón -Tango- (J.de Dios Filiberto) </title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>12.mp3</file>
+      <title>12- La última copa -Tango- (F.Canaro) </title>
+      <artist></artist>
+      <album></album>
+    </track>
+  </playlist>
+</player>

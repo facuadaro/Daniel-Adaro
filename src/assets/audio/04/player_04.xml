@@ -1,0 +1,34 @@
+<player>
+  <playlist>
+    <track>
+      <file>02.mp3</file>
+      <title>02- La historia de mi vida -Vals- (Mario Cabagnaro)</title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>03.mp3</file>
+      <title>03- Déjame estar -Zamba- (Oscar Valles)</title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>04.mp3</file>
+      <title>04- Palmeras -Polca Boliviana- (Gilberto Rojas)</title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>10.mp3</file>
+      <title>10- Enganchados de Chamamé</title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>14.mp3</file>
+      <title>14- Caserón de tejas -Vals Ciudadano- Cátulo Castillo - Sebastián Piana)</title>
+      <artist></artist>
+      <album></album>
+    </track>
+  </playlist>
+</player>

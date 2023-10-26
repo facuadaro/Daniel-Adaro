@@ -1,0 +1,22 @@
+<player>
+  <playlist>
+    <track>
+      <file>02.mp3</file>
+      <title>02- Hace de cuenta que no me has visto -Joropo- (Oscar Valles)</title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>10.mp3</file>
+      <title>10- Quisiera ser un duende -Cueca- (Francisco Campos) </title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>11.mp3</file>
+      <title>11- Buscando el medio -Chacarera- (E.Sarmiento - D.Baraza) </title>
+      <artist></artist>
+      <album></album>
+    </track>
+  </playlist>
+</player>

@@ -1,0 +1,67 @@
+<options>
+  <files>
+    <file0 name="D:\DVD_45\Daniel Adaro\danieladaro.com.ar\audio\08\01.mp3">
+      <title>11- El anden de la esperanza</title>
+      <artist></artist>
+      <album></album>
+    </file0>
+    <file1 name="D:\DVD_45\Daniel Adaro\danieladaro.com.ar\audio\08\04.mp3">
+      <title>14- De pura argentinidad</title>
+      <artist></artist>
+      <album></album>
+    </file1>
+    <file2 name="D:\DVD_45\Daniel Adaro\danieladaro.com.ar\audio\08\05.mp3">
+      <title>15- Arena y sal</title>
+      <artist></artist>
+      <album></album>
+    </file2>
+  </files>
+  <encoding>
+    <breencode>True</breencode>
+    <encodingoptions>4</encodingoptions>
+    <samplerate>2</samplerate>
+    <bitrate>3</bitrate>
+    <channels>0</channels>
+  </encoding>
+  <player>
+    <style name="Bar Custom Long">
+      <Py.Autostart>Yes</Py.Autostart>
+      <Py.Loop>Yes</Py.Loop>
+      <Py.Shuffle>No</Py.Shuffle>
+      <Py.BgStyle>Slope</Py.BgStyle>
+      <Py.BgColor>0x321010</Py.BgColor>
+      <Py.ButtonColor>0xFF8000</Py.ButtonColor>
+      <Py.TextColor>0xFF8000</Py.TextColor>
+      <Py.EffectColor>0xFF8000</Py.EffectColor>
+    </style>
+    <bdefaultsize>False</bdefaultsize>
+    <width>496</width>
+    <height>30</height>
+    <playerpos>0</playerpos>
+    <left>0</left>
+    <top>0</top>
+    <rotate>0</rotate>
+    <xscale>100</xscale>
+    <yscale>100</yscale>
+    <btransparent>True</btransparent>
+    <solidcolor>0xFF9900</solidcolor>
+    <bpreloader>True</bpreloader>
+    <preloadername>Dotty</preloadername>
+    <preloadercolor>0x000000</preloadercolor>
+    <preloaderbgcolor>0x000000</preloaderbgcolor>
+    <iversion>1</iversion>
+    <iframerate>12</iframerate>
+    <playpercent>0</playpercent>
+    <bgimage checked="0" count="0"/>
+    <fgimage checked="0" count="0"/>
+  </player>
+  <converting>
+    <outputfolder>D:\DVD_45\Daniel Adaro\danieladaro.com.ar\audio\08</outputfolder>
+    <outputfilename>player_08.swf</outputfilename>
+    <publishoption>0</publishoption>
+    <fileformat>2</fileformat>
+    <bFullURL>0</bFullURL>
+    <StrFullURL>http://www.yoursite.com/</StrFullURL>
+    <bOnlyFlashPlayer>0</bOnlyFlashPlayer>
+  </converting>
+</options>

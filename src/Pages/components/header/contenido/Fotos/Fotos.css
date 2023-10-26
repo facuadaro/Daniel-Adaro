@@ -1,0 +1,185 @@
+#fotosgral-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    height: max-content;
+    width: 100%;
+    /* border-style: solid; */
+}
+
+p {
+    color: #C5D5E4;
+    text-align: center;
+}
+
+
+.fotosgral {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    margin-top: 3rem;
+}
+
+
+.fotosgral li {
+    display: flex;
+    justify-content: center;
+    width: max-content;
+    border-style: solid;
+    border-width: 0.5px;
+    margin: 5px;
+    max-width: 400px;
+    transition: 0.25s;
+    max-height: 80px;
+    min-height: 80px;
+}
+
+.fotosgral li:hover {
+    cursor: pointer;
+    /* transform: scale(1.05); */
+    filter: grayscale(50%);
+    transition: 0.5s;
+}
+
+.fotosgral li img {
+    max-width: 120px;
+    object-fit: cover;
+}
+
+
+
+.modal-image {
+    width: 100%;
+}
+
+.container-image {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, .5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: scale(1);
+    transition: scale 1s ease-in;
+}
+
+.img-show {
+    width: max-content;
+    display: block;
+    object-fit: cover;
+    z-index: 100;
+}
+
+.ci-close {
+    position: absolute;
+    color: #fff;
+    font-size: 40px;
+    cursor: pointer;
+    border-style: solid;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    text-align: right;
+}
+
+.bx.bx-x {
+    color: #fff;
+    margin: 0 10px;
+}
+
+.slider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.flechasResp {
+    display: none;
+}
+
+.flecha {
+    width: 40px;
+    z-index: 100;
+    padding: 100px 20px;
+}
+
+.flecha:hover {
+    cursor: pointer;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: 20px 0;
+}
+
+.pagination button {
+    width: 100px;
+    margin: 0 10px;
+    background: none;
+    color: white;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.pagination button:hover {
+    cursor: pointer;
+}
+
+@media (max-width: 768px) {
+    .fotosgral {
+        width: 100%;
+        height: 100%;
+    }
+
+    .fotosgral li img {
+        width: 100%;
+        height: 100%;
+        max-width: 80px;
+        max-height: none;
+        object-fit: cover;
+    }
+
+    .fotosgral li {
+        height: 100%;
+        margin: 3px;
+        min-width: 80px;
+        min-height: 80px;
+    }
+
+    .slider {
+        flex-direction: column;
+    }
+
+    #izq, #der {
+        display: none;
+    }
+
+    .flechasResp {
+        display: flex;
+    }
+
+    .flecha {
+        width: 40px;
+        z-index: 100;
+        padding: 20px 40px;
+    }
+
+    .img-show {
+        margin: 20px;
+        width: 100%;
+    }
+
+}

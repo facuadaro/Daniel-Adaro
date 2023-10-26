@@ -1,0 +1,16 @@
+<player>
+  <playlist>
+    <track>
+      <file>01_artist_-_Track_1.mp3</file>
+      <title>La añera -zamba- (Atahualpa Yupanqui)</title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>02_Track_2.mp3</file>
+      <title>Trasnochados espineles -galopa- (Cholo Aguirre)</title>
+      <artist></artist>
+      <album></album>
+    </track>
+  </playlist>
+</player>

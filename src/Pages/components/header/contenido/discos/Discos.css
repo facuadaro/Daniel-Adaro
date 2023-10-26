@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.discosorig {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+@media (max-width: 768px) {
+
+
+    .discos {
+        width: 100%;
+        overflow-x: hidden;
+    }
+
+    
+    .discosorig {
+        width: 100%;
+    }
+
+    .discosorig p {
+        margin-bottom: 20px;
+    }
+
+    .participaciones {
+        width: 100%;
+    }
+}

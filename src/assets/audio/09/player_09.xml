@@ -1,0 +1,22 @@
+<player>
+  <playlist>
+    <track>
+      <file>02.mp3</file>
+      <title>02- La olvidada -chacarera- (A.Yupanqui)</title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>08.mp3</file>
+      <title>08- El mensu -galopa- (C. La de Ayala)</title>
+      <artist></artist>
+      <album></album>
+    </track>
+    <track>
+      <file>10.mp3</file>
+      <title>10- Asi te nombre mi zamba -zamba- (O.Diaz)</title>
+      <artist></artist>
+      <album></album>
+    </track>
+  </playlist>
+</player>

@@ -1,0 +1,26 @@
+#contenedor {
+    display: flex;
+    justify-content: center;
+    max-width: 100%;
+    margin-right: 8rem;
+}
+
+.tapa {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+footer {
+    font-family:  'Anton', sans-serif;
+    font-size: xx-large;
+    margin: 0;
+}
+
+
+@media (max-width: 768px) {
+    #contenedor {
+        align-items: center;
+        margin-right: 0;
+    }
+}
